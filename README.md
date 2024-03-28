@@ -16,10 +16,10 @@
 <a href="https://www.linkedin.com/in/kauan-nery/">
  <!-- <img style="border-radius: 50%;" src="" width="100px;" alt=""/> -->
  <!-- <br /> -->
- <sub><b>Juliana Bitencourt</b></sub></a>  <a href="https://www.linkedin.com/in/kauan-nery/" title="LinkedIn">🚀</a>
+ <sub><b>Kauan Nery </b></sub></a>  <a href="https://www.linkedin.com/in/kauan-nery/" title="LinkedIn">🚀</a>
 
 
-Elaborado por Juliana Bitencourt
+Elaborado por Kauan Nery 
 <br> Entre em contato!👋🏽 </br>
 
 
